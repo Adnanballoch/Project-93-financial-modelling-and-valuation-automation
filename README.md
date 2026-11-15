@@ -21,14 +21,14 @@ Claude in Excel, DCF Valuation, Financial Modelling, Sensitivity Analysis
 
 This repository shows the project overview, tech stack, and demo link. For full source code access, a live demo walkthrough, licensing, collaboration, or custom builds, please get in touch:
 
-📧 **automatrixlab@gmail.com**
+📧 **adnan.balloch@outlook.com**
 
 ## About AutoMatrixLab
 
 AutoMatrixLab is a research, education, and industry platform with over 100 AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open — by one senior lecturer and his students — with no institutional funding.
 
 🌐 Website: https://automatrixlab.com
-📧 Contact: automatrixlab@gmail.com
+📧 Contact: adnan.balloch@outlook.com
 
 ---
 
